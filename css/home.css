@@ -387,9 +387,9 @@ ul.res {
       .head .search input {
         width: 600px;
         background-color: rgba(0, 0, 0, 0);
-        border-bottom: 1px solid #c3c3c3; }
+        border-bottom: 1px solid #3d3d3d; }
         .head .search input:focus {
-          border-bottom: 1px solid #3d3d3d; } }
+          border-bottom: 1px solid #c3c3c3; } }
     @media (max-width: 767px) {
       .head .search input {
         width: 400px; } }
