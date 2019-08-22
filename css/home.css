@@ -41,7 +41,7 @@ ul.res {
   font-family: "frtBlk";
   src: url("../fonts/FrutigerLTArabic-75Black.ttf") format("ttf"), url("../fonts/FrutigerLTArabic-75Black.woff") format("woff"), url("../fonts/FrutigerLTArabic-75Black.woff2") format("woff2"), url("../fonts/FrutigerLTArabic-75Black.eot") format("eot"); }
 
-.flix, .head .up, .disc.custom .owl-carousel .product .pic, .disc.custom .owl-carousel .product .pic .top, .boxes .box {
+.flix, .head .up, .navBar, .disc.custom .owl-carousel .product .pic, .disc.custom .owl-carousel .product .pic .top, .boxes .box {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -555,7 +555,8 @@ ul.res {
         display: block; } }
 
 .navBar {
-  background-color: #000; }
+  background-color: #000;
+  height: 50px; }
   @media (max-width: 991px) {
     .navBar {
       display: none; } }
