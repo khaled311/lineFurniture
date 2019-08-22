@@ -1250,7 +1250,8 @@ footer {
 .end {
   background-color: #000; }
   .end .container {
-    border-top: 1px solid #1a1a1a; }
+    border-top: 1px solid #1a1a1a;
+    padding: 0; }
   .end .content {
     padding: 10px 0;
     display: -webkit-box;
